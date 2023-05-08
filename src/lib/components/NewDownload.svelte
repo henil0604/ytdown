@@ -73,8 +73,8 @@
                     </div>
                     <div>
                         <iframe
-                            width="560"
-                            height="315"
+                            width="auto"
+                            height="auto"
                             src={videoInfo.basic_info.embed?.iframe_url}
                             title="YouTube video player"
                             frameborder="0"
