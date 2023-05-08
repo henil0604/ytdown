@@ -14,7 +14,7 @@
         unitDisplay: "narrow",
     });
 
-    let url: string = "https://www.youtube.com/watch?v=tPEE9ZwTmy0";
+    let url: string = "";
 
     let videoInfo: VideoInfo | null = null;
     let videoFormats: Format[] = [];
